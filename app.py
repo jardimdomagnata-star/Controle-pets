@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # Configuração da página
-st.set_page_config(page_title="Controle de Pets - Stark Gamestore", layout="wide")
+st.set_page_config(page_title="Controle de Pets", layout="wide")
 
 st.title("🐾 Controle de Pets")
 st.write("Adicione seus pets, acompanhe os valores e veja o total da sua coleção.")
